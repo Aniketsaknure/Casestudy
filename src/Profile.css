@@ -1,0 +1,19 @@
+.Profile{
+   text-align: left;
+   position: relative;
+   
+
+   
+   
+   
+}
+.btn{
+    display: flex;
+    position: relative;
+    top: 0px;
+}
+.lastname{
+    text-align: left;
+    position: relative;
+    top: 100px;
+}
